@@ -4,4 +4,4 @@ def factorial(number):
         fact = fact*number
         number-= 1
     return fact
-print(factorial(5)
+print(factorial(12)
